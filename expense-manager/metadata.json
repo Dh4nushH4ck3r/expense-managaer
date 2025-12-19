@@ -1,0 +1,5 @@
+{
+  "name": "Expense Manager",
+  "description": "Offline-first personal finance and delivery tracker for gig workers. Manage expenses, loans, and delivery earnings with local data privacy.",
+  "requestFramePermissions": []
+}
